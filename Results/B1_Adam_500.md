@@ -119,6 +119,4 @@ Comparison plot saved: /content/results/reference_comparison_final_time.png
 Error plot saved: /content/results/absolute_error_field.png
 
 B1 run finished.
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](image.png) ![alt text](image-1.png) ![alt text](image-2.png)
