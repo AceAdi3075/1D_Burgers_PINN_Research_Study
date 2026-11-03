@@ -14,7 +14,7 @@ $$
 
 Reported results:
 * Maximum absolute residual: $1.9292 \times 10^2$
-* Mean absolute residual: $4.6913 \times 10^1$
+* Mean absolute residual: $0.46913 \times 10^1$
 
 The residual plot shows large values around the region where the predicted sharp front is displaced.
 
